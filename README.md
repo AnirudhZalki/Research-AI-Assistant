@@ -10,7 +10,7 @@ and reviewer marks section.
 
 - **Team:** 9
 - **Members:** Kartik, Anirudh, Goutam, and Harshad
-- **Review date:** 27 October 2026
+- CSE(AI) A div 
 
 ## Assignments
 
